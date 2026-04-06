@@ -1,2 +1,1 @@
-# DescriptiveStatisticsRepozytorium
-# [Solutions](solutions.md)
+# [Solutions for all exercises](solutions.md)
